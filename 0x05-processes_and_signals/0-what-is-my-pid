@@ -1,2 +1,4 @@
-the
-thtbthr
+#!/usr/bin/env bash
+# Returns its own pid
+
+echo $$
